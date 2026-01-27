@@ -45,7 +45,7 @@
 
 <h3 align="center">Let's Connect</h3>
 <p align="center">
-  <a href="ඔයාගේ-linkedin-ලින්ක්-එක" target="_blank">
+  <a href="www.linkedin.com/in/ravindu-buddika-48a761369" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin,gmail" />
   </a>
 </p>
