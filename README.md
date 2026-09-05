@@ -14,7 +14,7 @@
 
 <br/>
 
-<pre align="left" style="background:#0D1117; color:#39FF14; font-family:'Fira Code','Courier New',monospace; padding:22px; border-radius:8px; line-height:1.6; font-size:14px;">
+<pre align="left" style="background:#0D1117; font-family:'Fira Code','Courier New',monospace; padding:22px; border-radius:8px; line-height:1.6; font-size:14px;"><span style="color:#39FF14;">
 <b>ravindu@dev</b>:~$ whoami
 Ravindu Buddhika
 
@@ -33,12 +33,12 @@ a well-rounded, overall developer: backend, frontend,
 testing, and everything in between.
 
 <b>ravindu@dev</b>:~$ _
-</pre>
+</span></pre>
 
 <br/>
 
 <!--STATS-START-->
-<pre align="left" style="background:#0D1117; color:#39FF14; font-family:'Fira Code','Courier New',monospace; padding:22px; border-radius:8px; line-height:1.6; font-size:14px;">
+<pre align="left" style="background:#0D1117; font-family:'Fira Code','Courier New',monospace; padding:22px; border-radius:8px; line-height:1.6; font-size:14px;"><span style="color:#39FF14;">
 <b>ravindu@dev</b>:~$ curl -s api.github.com/users/Ravindu-Buddhika | jq
 
   login          : Ravindu-Buddhika
@@ -62,20 +62,40 @@ testing, and everything in between.
   Other       ██████░░░░░░░░░░░░░░  15%
 
 <b>ravindu@dev</b>:~$ _
-</pre>
+</span></pre>
 <!--STATS-END-->
 
 <br/>
 
-<pre align="left" style="background:#0D1117; color:#39FF14; font-family:'Fira Code','Courier New',monospace; padding:22px; border-radius:8px; line-height:1.6; font-size:14px;">
+<pre align="left" style="background:#0D1117; font-family:'Fira Code','Courier New',monospace; padding:22px; border-radius:8px; line-height:1.6; font-size:14px;"><span style="color:#39FF14;">
 <b>ravindu@dev</b>:~$ cat contact.txt
 LinkedIn : linkedin.com/in/ravindu-buddika-48a761369
 Email    : ravindu@gmail.com
 
 <b>ravindu@dev</b>:~$ _
-</pre>
+</span></pre>
 
 <br/>
+
+<br/>
+
+<p align="center">
+<pre style=" font-family:'Fira Code','Courier New',monospace; font-size:13px; line-height:1.3; display:inline-block; text-align:left;"><span style="color:#39FF14;">
+                  _~_
+  ___            |oo ]
+ [ o ]           _\=/_
+ |===|          /     \
+ | 0 |          \|(-)|/
+ | 0 |           \| |/
+_|___|_           |_|
+|  |  |          /| |\
+|__|__|         [ ] [ ]
+  | |             | |
+ _| |_           _| |_
+/_)   (_\       /_)   (_\
+--------------------------------------
+</span></pre>
+</p>
 
 <p align="center">
   <b style="color:#39FF14;">Happy Coding! 💻✨</b>

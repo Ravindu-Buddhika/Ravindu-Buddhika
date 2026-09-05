@@ -189,7 +189,7 @@ lang_block = "\n".join(lang_lines) if lang_lines else "  (no language data avail
 # ---------------------------------------------------------------------------
 generated_at = datetime.utcnow().strftime("%Y-%m-%d %H:%M UTC")
 
-stats_block = f"""<pre align="left" style="background:#0D1117; color:#39FF14; font-family:'Fira Code','Courier New',monospace; padding:22px; border-radius:8px; line-height:1.6; font-size:14px;">
+stats_block = f"""<pre align="left" style="background:#0D1117; font-family:'Fira Code','Courier New',monospace; padding:22px; border-radius:8px; line-height:1.6; font-size:14px;"><span style="color:#39FF14;">
 <b>ravindu@dev</b>:~$ curl -s api.github.com/users/{USERNAME} | jq
 
   login          : {USERNAME}
@@ -210,7 +210,7 @@ stats_block = f"""<pre align="left" style="background:#0D1117; color:#39FF14; fo
 {lang_block}
 
 <b>ravindu@dev</b>:~$ # last synced: {generated_at}
-</pre>"""
+</span></pre>"""
 
 # ---------------------------------------------------------------------------
 # 5. Write into README.md between markers
