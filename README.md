@@ -52,7 +52,7 @@ testing, and everything in between.
   │  Total Commits    │  Current Streak  │  Longest Streak  │
   ├──────────────────┼──────────────────┼──────────────────┤
   │      510          │      5          │      9          │
-  │  (last 12 months) │ Sep 01 - Sep 05  │ Apr 13 - Apr 21  │
+  │  (last 12 months) │ Sep 01 - Sep 01  │ Apr 13 - Apr 21  │
   └──────────────────┴──────────────────┴──────────────────┘
 
 <b>ravindu@dev</b>:~$ cat top_langs.txt
@@ -62,7 +62,7 @@ testing, and everything in between.
   PHP         ███░░░░░░░░░░░░░░░░░  12.84%
   Blade       █░░░░░░░░░░░░░░░░░░░  6.29%
 
-<b>ravindu@dev</b>:~$ # last synced: 2026-09-05 12:32 UTC
+<b>ravindu@dev</b>:~$ # last synced: 2026-09-06 04:38 UTC
 </span></pre>
 <!--STATS-END-->
 
