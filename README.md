@@ -44,15 +44,15 @@ testing, and everything in between.
   login          : Ravindu-Buddhika
   public_repos   : 35
   followers      : 6
-  following      : 13
+  following      : 14
   member_since   : 07 May 2025
 
 <b>ravindu@dev</b>:~$ cat github_stats.txt
   ┌──────────────────┬──────────────────┬──────────────────┐
   │  Total Commits    │  Current Streak  │  Longest Streak  │
   ├──────────────────┼──────────────────┼──────────────────┤
-  │      520          │      10         │      10         │
-  │  (last 12 months) │ Sep 01 - Sep 01  │ Sep 01 - Sep 10  │
+  │      523          │      11         │      11         │
+  │  (last 12 months) │ Sep 01 - Sep 01  │ Sep 01 - Sep 11  │
   └──────────────────┴──────────────────┴──────────────────┘
 
 <b>ravindu@dev</b>:~$ cat top_langs.txt
@@ -62,7 +62,7 @@ testing, and everything in between.
   PHP         ███░░░░░░░░░░░░░░░░░  12.84%
   Blade       █░░░░░░░░░░░░░░░░░░░  6.29%
 
-<b>ravindu@dev</b>:~$ # last synced: 2026-09-11 04:39 UTC
+<b>ravindu@dev</b>:~$ # last synced: 2026-09-12 04:33 UTC
 </span></pre>
 <!--STATS-END-->
 
