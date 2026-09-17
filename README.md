@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/ravindu-binary.svg" alt="Ravindu Buddhika" width="700px" />
+  <img src="./assets/Black and White Minimalist Photography LinkedIn Banner.png" alt="Ravindu Buddhika" width="700px" />
 </p>
 
 <p align="center">
