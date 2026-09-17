@@ -1,103 +1,49 @@
-<p align="center">
-  <img src="./assets/Black and White Minimalist Photography LinkedIn Banner.png" alt="Ravindu Buddhika" width="100%" />
-</p>
+<img src="./assets/Black and White Minimalist Photography LinkedIn Banner.png" alt="Ravindu Buddhika" width="100%" />
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Ravindu-Buddhika&label=Profile+Views&color=39FF14&style=flat-square" alt="Profile Views"/>
 </p>
 
-<br/>
+## About Me
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=39FF14&background=0D1117&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Trainee+Software+Engineer+%40+SYGEN;Spring+Boot+%7C+React+%7C+Next.js;Laravel+%7C+Django+%7C+Tauri+%7C+Supabase" alt="Typing SVG" />
+I am a **Trainee Software Engineer (Intern) at SYGEN**, passionate about building scalable web applications and desktop solutions. I focus on backend stability, frontend UX, and writing clean, testable code.
+
+* **Education:** Undergraduate | Professional Developer Diploma Holder
+* **Current Role:** Trainee Software Engineer @ SYGEN
+* **Focus:** Backend Development (Spring Boot, Laravel), Modern Frontend (React, Next.js), and Integration Testing
+
+---
+
+## Tech Stack
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,react,nextjs,laravel,django,tauri,js,php,html,css,mysql,supabase,postman,docker,git" />
+  </a>
 </p>
 
-<br/>
+---
 
-<pre align="left" style="background:#0D1117; font-family:'Fira Code','Courier New',monospace; padding:22px; border-radius:8px; line-height:1.6; font-size:14px;"><span style="color:#39FF14;">
-<b>ravindu@dev</b>:~$ whoami
-Ravindu Buddhika
-
-<b>ravindu@dev</b>:~$ cat role.txt
-Trainee Software Engineer (Intern) @ SYGEN
-Undergraduate | Professional Developer Diploma holder
-
-<b>ravindu@dev</b>:~$ cat stack.txt
-Core        : Spring Boot, React
-Also using  : Next.js, Laravel, Django, Tauri, Supabase
-Testing     : Unit / Integration testing
-
-<b>ravindu@dev</b>:~$ cat focus.txt
-Not just a framework specialist — building myself into
-a well-rounded, overall developer: backend, frontend,
-testing, and everything in between.
-
-<b>ravindu@dev</b>:~$ _
-</span></pre>
-
-<br/>
-
-<!--STATS-START-->
-<pre align="left" style="background:#0D1117; font-family:'Fira Code','Courier New',monospace; padding:22px; border-radius:8px; line-height:1.6; font-size:14px;"><span style="color:#39FF14;">
-<b>ravindu@dev</b>:~$ curl -s api.github.com/users/Ravindu-Buddhika | jq
-
-  login          : Ravindu-Buddhika
-  public_repos   : 35
-  followers      : 7
-  following      : 14
-  member_since   : 07 May 2025
-
-<b>ravindu@dev</b>:~$ cat github_stats.txt
-  ┌──────────────────┬──────────────────┬──────────────────┐
-  │  Total Commits    │  Current Streak  │  Longest Streak  │
-  ├──────────────────┼──────────────────┼──────────────────┤
-  │      541          │      17         │      17         │
-  │  (last 12 months) │ Sep 01 - Sep 17  │ Sep 01 - Sep 17  │
-  └──────────────────┴──────────────────┴──────────────────┘
-
-<b>ravindu@dev</b>:~$ cat top_langs.txt
-  Java        ███████░░░░░░░░░░░░░  32.56%
-  HTML        █████░░░░░░░░░░░░░░░  26.53%
-  JavaScript  ████░░░░░░░░░░░░░░░░  21.77%
-  PHP         ███░░░░░░░░░░░░░░░░░  12.84%
-  Blade       █░░░░░░░░░░░░░░░░░░░  6.29%
-
-<b>ravindu@dev</b>:~$ # last synced: 2026-09-17 15:41 UTC
-</span></pre>
-<!--STATS-END-->
-
-<br/>
-
-<pre align="left" style="background:#0D1117; font-family:'Fira Code','Courier New',monospace; padding:22px; border-radius:8px; line-height:1.6; font-size:14px;"><span style="color:#39FF14;">
-<b>ravindu@dev</b>:~$ cat contact.txt
-LinkedIn : linkedin.com/in/ravindu-buddika-48a761369
-Email    : ravindu@gmail.com
-
-<b>ravindu@dev</b>:~$ _
-</span></pre>
-
-<br/>
-
-<br/>
+## GitHub Stats
 
 <p align="center">
-<pre style=" font-family:'Fira Code','Courier New',monospace; font-size:13px; line-height:1.3; display:inline-block; text-align:left;"><span style="color:#39FF14;">
-                                                                    _~_
-                                                    ___            |oo ]
-                                                   [ o ]           _\=/_
-                                                   |===|          /     \
-                                                   | 0 |          \|(-)|/
-                                                   | 0 |           \| |/
-                                                  _|___|_           |_|
-                                                  |  |  |          /| |\
-                                                  |__|__|         [ ] [ ]
-                                                    | |             | |
-                                                   _| |_           _| |_
-                                                  /_)   (_\       /_)   (_\
-----------------------------------------------------------------------------------------------------------------------------------
-</span></pre>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ravindu-Buddhika&show_icons=true&title_color=39FF14&icon_color=39FF14&text_color=ffffff&bg_color=0d1117&border_color=39FF14&rank_icon=github&include_all_commits=true&count_private=true" alt="Ravindu's GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ravindu-Buddhika&layout=compact&title_color=39FF14&text_color=ffffff&bg_color=0d1117&border_color=39FF14" alt="Most Used Languages" height="170" />
 </p>
 
 <p align="center">
-  <b style="color:#39FF14;">Happy Coding! 💻✨</b>
+  <img src="https://streak-stats.demolab.com?user=Ravindu-Buddhika&theme=dark&background=0D1117&border=39FF14&stroke=39FF14&ring=39FF14&fire=39FF14&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=39FF14&sideLabels=39FF14&dates=ffffff" alt="GitHub Streak" />
+</p>
+
+---
+
+## Connect with Me
+
+* **LinkedIn:** [Ravindu Buddhika](https://linkedin.com/in/ravindu-buddika-48a761369)
+* **Email:** 05ravindubuddhika@gmail.com
+
+---
+
+<p align="center">
+  <b>Happy Coding! 💻✨</b>
 </p>
