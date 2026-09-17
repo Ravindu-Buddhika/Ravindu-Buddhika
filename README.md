@@ -43,16 +43,16 @@ testing, and everything in between.
 
   login          : Ravindu-Buddhika
   public_repos   : 35
-  followers      : 6
-  following      : 13
+  followers      : 7
+  following      : 14
   member_since   : 07 May 2025
 
 <b>ravindu@dev</b>:~$ cat github_stats.txt
   ┌──────────────────┬──────────────────┬──────────────────┐
   │  Total Commits    │  Current Streak  │  Longest Streak  │
   ├──────────────────┼──────────────────┼──────────────────┤
-  │      506          │      5          │      9          │
-  │  (last 12 months) │ Sep 01 - Sep 05  │ Apr 13 - Apr 21  │
+  │      539          │      16         │      16         │
+  │  (last 12 months) │ Sep 01 - Sep 01  │ Sep 01 - Sep 16  │
   └──────────────────┴──────────────────┴──────────────────┘
 
 <b>ravindu@dev</b>:~$ cat top_langs.txt
@@ -62,7 +62,7 @@ testing, and everything in between.
   PHP         ███░░░░░░░░░░░░░░░░░  12.84%
   Blade       █░░░░░░░░░░░░░░░░░░░  6.29%
 
-<b>ravindu@dev</b>:~$ _
+<b>ravindu@dev</b>:~$ # last synced: 2026-09-17 04:52 UTC
 </span></pre>
 <!--STATS-END-->
 
@@ -82,19 +82,19 @@ Email    : ravindu@gmail.com
 
 <p align="center">
 <pre style=" font-family:'Fira Code','Courier New',monospace; font-size:13px; line-height:1.3; display:inline-block; text-align:left;"><span style="color:#39FF14;">
-                  _~_
-  ___            |oo ]
- [ o ]           _\=/_
- |===|          /     \
- | 0 |          \|(-)|/
- | 0 |           \| |/
-_|___|_           |_|
-|  |  |          /| |\
-|__|__|         [ ] [ ]
-  | |             | |
- _| |_           _| |_
-/_)   (_\       /_)   (_\
---------------------------------------
+                                                                    _~_
+                                                    ___            |oo ]
+                                                   [ o ]           _\=/_
+                                                   |===|          /     \
+                                                   | 0 |          \|(-)|/
+                                                   | 0 |           \| |/
+                                                  _|___|_           |_|
+                                                  |  |  |          /| |\
+                                                  |__|__|         [ ] [ ]
+                                                    | |             | |
+                                                   _| |_           _| |_
+                                                  /_)   (_\       /_)   (_\
+----------------------------------------------------------------------------------------------------------------------------------
 </span></pre>
 </p>
 
